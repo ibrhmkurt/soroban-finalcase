@@ -7,8 +7,6 @@ Who are you: İbrahim Kurt a Rust Enjoyer
 
 Project details:
 
-Of course! Here is the description of OnlyPay in English:
-
 ## OnlyPay: A Soroban Smart Contract Platform
 
 OnlyPay is a smart contract project designed for easy development and utilization within the Soroban ecosystem. This platform provides users with a fast, reliable, and efficient way to make payments.
